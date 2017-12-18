@@ -2,5 +2,9 @@
     {
         "merged": "/home/stefansujdovic/Desktop/PDF/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/stefansujdovic/Desktop/PDF/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/stefansujdovic/Downloads/ReactNativePDF-master/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/stefansujdovic/Downloads/ReactNativePDF-master/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
     }
 ]
